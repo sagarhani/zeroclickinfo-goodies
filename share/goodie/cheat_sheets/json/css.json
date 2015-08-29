@@ -1,0 +1,19 @@
+{
+    "id": "css_cheat_sheet",
+    "name": "CSS Cheat Sheet",
+    "description": "Cascading Style Sheet syntax",
+    "metadata": {
+        "sourceName": "Leslie Franke",
+        "sourceUrl": "http://lesliefranke.com/files/reference/csscheatsheet.html"
+    },
+    "aliases": [
+        "css", "cascading style sheets", "cascading style sheet"
+    ],
+    "template_type": "code",
+    "section_order": ["General", "Font", "Text", "Border", "Position", "Background", "List"],
+    "sections": {
+        "General": [{
+            
+            }]
+    }
+}
